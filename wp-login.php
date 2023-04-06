@@ -58,7 +58,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 					</label>
 
 					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
-<option value="id_ID" lang="" selected data-installed="1">id_ID</option></select>
+<option value="id_ID" lang="id" selected data-installed="1">Bahasa Indonesia</option></select>
 					
 					
 					
@@ -83,17 +83,17 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2023-03-18 05:33:19+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"id"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s telah kedaluarsa sejak versi %2$s! Gunakan %3$s sebagai gantinya. Silakan pertimbangkan untuk menulis kode yang lebih inklusif."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );</script>
+} )( "default", {"translation-revision-date":"2023-04-05 13:55:57+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"id"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s telah kedaluarsa sejak versi %2$s! Gunakan %3$s sebagai gantinya. Silakan pertimbangkan untuk menulis kode yang lebih inklusif."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );</script>
 <script src="/wp-admin/js/password-strength-meter.min.js?ver=6.2" id="password-strength-meter-js"></script>
 <script src="/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/markaswalet\/wp-admin\/admin-ajax.php"}};</script>
 <script src="/wp-includes/js/wp-util.min.js?ver=6.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"5267b8cfac"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"69c39bc79b"};</script>
 <script id="user-profile-js-translations">( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2023-03-18 05:33:19+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"id"},"Your new password has not been saved.":["Sandi baru Anda belum disimpan."],"Hide":["Sembunyikan"],"Show":["Tampilkan"],"Confirm use of weak password":["Setujui penggunaan sandi yang lemah"],"Hide password":["Sembunyikan sandi"],"Show password":["Tampilkan sandi"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );</script>
+} )( "default", {"translation-revision-date":"2023-04-05 13:55:57+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"id"},"Your new password has not been saved.":["Sandi baru Anda belum disimpan."],"Hide":["Sembunyikan"],"Show":["Tampilkan"],"Confirm use of weak password":["Setujui penggunaan sandi yang lemah"],"Hide password":["Sembunyikan sandi"],"Show password":["Tampilkan sandi"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );</script>
 <script src="/wp-admin/js/user-profile.min.js?ver=6.2" id="user-profile-js"></script>
 			<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
 				<div class="clear"></div>
