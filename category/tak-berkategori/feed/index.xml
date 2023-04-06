@@ -12,7 +12,7 @@
 	<atom:link href="/category/tak-berkategori/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 06 Apr 2023 06:50:12 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Apr 2023 09:12:17 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>Sarang Walet Kuning</title>
 		<link>/sarang-walet-kuning/</link>
-					<comments>/sarang-walet-kuning/#respond</comments>
 		
 		<dc:creator><![CDATA[faishal.hafizh]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 06:50:09 +0000</pubDate>
@@ -152,15 +151,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sarang-walet-kuning/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sarang Walet Merah</title>
 		<link>/sarang-walet-merah/</link>
-					<comments>/sarang-walet-merah/#respond</comments>
 		
 		<dc:creator><![CDATA[faishal.hafizh]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 06:43:31 +0000</pubDate>
@@ -336,15 +332,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sarang-walet-merah/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sarang Walet Putih</title>
 		<link>/sarang-walet-putih/</link>
-					<comments>/sarang-walet-putih/#respond</comments>
 		
 		<dc:creator><![CDATA[faishal.hafizh]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 06:38:27 +0000</pubDate>
@@ -510,15 +503,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sarang-walet-putih/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sarang Walet Mangkok</title>
 		<link>/sarang-walet-mangkok/</link>
-					<comments>/sarang-walet-mangkok/#respond</comments>
 		
 		<dc:creator><![CDATA[faishal.hafizh]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 05:48:58 +0000</pubDate>
@@ -686,15 +676,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sarang-walet-mangkok/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sarang Walet Oval/Pipih</title>
 		<link>/sarang-walet-oval-pipih/</link>
-					<comments>/sarang-walet-oval-pipih/#respond</comments>
 		
 		<dc:creator><![CDATA[faishal.hafizh]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 05:41:00 +0000</pubDate>
@@ -848,15 +835,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sarang-walet-oval-pipih/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sarang Walet Sudut/Segitiga</title>
 		<link>/sarang-walet-sudut-segitiga/</link>
-					<comments>/sarang-walet-sudut-segitiga/#respond</comments>
 		
 		<dc:creator><![CDATA[faishal.hafizh]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 05:31:34 +0000</pubDate>
@@ -1030,15 +1014,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sarang-walet-sudut-segitiga/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sarang Walet Patahan</title>
 		<link>/sarang-walet-patahan/</link>
-					<comments>/sarang-walet-patahan/#respond</comments>
 		
 		<dc:creator><![CDATA[faishal.hafizh]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 05:21:04 +0000</pubDate>
@@ -1230,8 +1211,6 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sarang-walet-patahan/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -1386,7 +1365,6 @@
 		<item>
 		<title>Sarang Walet Serabut</title>
 		<link>/sarang-walet-serabut/</link>
-					<comments>/sarang-walet-serabut/#respond</comments>
 		
 		<dc:creator><![CDATA[faishal.hafizh]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 04:51:11 +0000</pubDate>
@@ -1584,15 +1562,12 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sarang-walet-serabut/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sarang Walet Kaki</title>
 		<link>/sarang-walet-kaki/</link>
-					<comments>/sarang-walet-kaki/#respond</comments>
 		
 		<dc:creator><![CDATA[faishal.hafizh]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2023 04:04:44 +0000</pubDate>
@@ -1798,8 +1773,6 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sarang-walet-kaki/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
