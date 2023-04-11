@@ -11,8 +11,18 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/registrasi/</loc>
+		<lastmod>2023-04-11T06:48:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/workshop/</loc>
-		<lastmod>2023-04-11T06:01:44+00:00</lastmod>
+		<lastmod>2023-04-11T06:46:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/seminar-rumah-burung-walet.png</image:loc>
 		</image:image>
@@ -172,16 +182,6 @@
 	<url>
 		<loc>/berita/</loc>
 		<lastmod>2023-04-10T08:03:24+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/registrasi/</loc>
-		<lastmod>2023-04-10T07:21:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
-		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
 		</image:image>
