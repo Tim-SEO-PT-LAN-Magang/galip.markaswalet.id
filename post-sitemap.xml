@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/sarang-walet-merah/</loc>
-		<lastmod>2023-04-11T06:43:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jual-sarang-walet-merah-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jual-sarang-walet-merah-3-3.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jual-sarang-walet-merah-6.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletmangkokmurah9.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/sarang-walet-kuning/</loc>
-		<lastmod>2023-04-11T06:42:37+00:00</lastmod>
+		<lastmod>2023-04-12T03:51:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/sarang-walet-kuning-murah.jpg</image:loc>
 		</image:image>
@@ -27,6 +11,18 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jual-sarang-walet-kuning-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/walet-kuning.jpg</image:loc>
@@ -39,8 +35,36 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/sarang-walet-merah/</loc>
+		<lastmod>2023-04-12T03:48:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jual-sarang-walet-merah-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jual-sarang-walet-merah-3-3.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jual-sarang-walet-merah-6.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletmangkokmurah9.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/sarang-walet-putih/</loc>
-		<lastmod>2023-04-11T06:40:07+00:00</lastmod>
+		<lastmod>2023-04-12T03:46:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/gambar-6.png</image:loc>
 		</image:image>
@@ -54,12 +78,24 @@
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah7.jpeg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/gambar-7.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/sarang-walet-mangkok/</loc>
-		<lastmod>2023-04-11T06:39:21+00:00</lastmod>
+		<lastmod>2023-04-12T03:43:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletmangkokmurah3.jpeg</image:loc>
 		</image:image>
@@ -75,10 +111,22 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/SS_white_900x600-4.jpeg</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/sarang-walet-oval-pipih/</loc>
-		<lastmod>2023-04-11T06:38:27+00:00</lastmod>
+		<lastmod>2023-04-12T03:43:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/gambar-4.png</image:loc>
 		</image:image>
@@ -88,10 +136,22 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/putih.jpg</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/sarang-walet-sudut-segitiga/</loc>
-		<lastmod>2023-04-11T06:36:11+00:00</lastmod>
+		<lastmod>2023-04-12T03:41:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah4-1.jpeg</image:loc>
 		</image:image>
@@ -100,6 +160,18 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah7.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah7.jpeg</image:loc>
@@ -113,7 +185,7 @@
 	</url>
 	<url>
 		<loc>/sarang-walet-patahan/</loc>
-		<lastmod>2023-04-11T06:35:04+00:00</lastmod>
+		<lastmod>2023-04-12T03:40:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/gambar-3.png</image:loc>
 		</image:image>
@@ -123,10 +195,22 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletpatahanmurah5.jpeg</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/sarang-walet-hancuran/</loc>
-		<lastmod>2023-04-11T06:33:15+00:00</lastmod>
+		<lastmod>2023-04-12T03:38:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwalethancuranmurah2.jpeg</image:loc>
 		</image:image>
@@ -140,12 +224,24 @@
 			<image:loc>/wp-content/uploads/2023/04/hancuran-4.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/gambar-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/sarang-walet-serabut/</loc>
-		<lastmod>2023-04-11T06:31:31+00:00</lastmod>
+		<lastmod>2023-04-12T03:38:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/gambar.png</image:loc>
 		</image:image>
@@ -153,12 +249,24 @@
 			<image:loc>/wp-content/uploads/2023/04/gambar-1.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletkakimurah3-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/sarang-walet-kaki/</loc>
-		<lastmod>2023-04-11T06:30:29+00:00</lastmod>
+		<lastmod>2023-04-12T03:36:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletkakimurah2.jpeg</image:loc>
 		</image:image>
@@ -176,6 +284,18 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/sarang-burung-walet-kaki.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Merah-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Tanpa-Judul.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Sarang-Walet-Kuning.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-hitam.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletkakimurah4-768x768-1.jpeg</image:loc>
