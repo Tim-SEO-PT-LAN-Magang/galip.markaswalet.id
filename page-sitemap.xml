@@ -2,19 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-04-11T05:46:52+00:00</lastmod>
+		<lastmod>2023-04-13T03:57:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/sarang-burung-walet-original-murah.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/Encik-Mohd-Zain-PPN.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/registrasi/</loc>
-		<lastmod>2023-04-12T06:14:05+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/Andy-Tian.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Dr.-Bonifacius-Lukmanto-Djojopranoto-Sp.B.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
@@ -22,7 +21,28 @@
 	</url>
 	<url>
 		<loc>/berita/</loc>
-		<lastmod>2023-04-12T05:35:53+00:00</lastmod>
+		<lastmod>2023-04-13T04:55:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-30.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-28.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-26.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-24.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-22.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-20.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-18.png</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/gambar-16.png</image:loc>
 		</image:image>
@@ -37,6 +57,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/gambar-8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/registrasi/</loc>
+		<lastmod>2023-04-12T06:14:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
