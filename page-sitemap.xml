@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-04-17T08:00:26+00:00</lastmod>
+		<lastmod>2023-04-18T05:22:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/indonesia-map.png</image:loc>
 		</image:image>
@@ -50,30 +50,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rumah-walet/</loc>
-		<lastmod>2023-04-17T07:51:42+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/gambar-40.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/gambar-38.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/gambar-36.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/gambar-34.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/gambar-32.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/daftar-produk/</loc>
-		<lastmod>2023-04-17T06:56:51+00:00</lastmod>
+		<lastmod>2023-04-18T05:17:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/sarang-walet-kuning-murah.jpg</image:loc>
 		</image:image>
@@ -103,6 +81,159 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletkakimurah2.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ukuran/</loc>
+		<lastmod>2023-04-18T05:16:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah6.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletkakimurah3-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah7.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwalethancuranmurah3.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Markas-Sarang-Burung-Walet-SM-S-SS-SSS-SSSS-berat-50-gram-e1545975988825.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Markas-Sarang-Burung-Walet-SM-S-SS-SSS-SSSS-berat-100-gram.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Markas-Sarang-Burung-Walet-SM-S-SS-SSS-SSSS-berat-200-gram.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/warna-sarang/</loc>
+		<lastmod>2023-04-18T05:15:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/sarang-walet-kuning-murah.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jual-sarang-walet-merah-3-3.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/bentuk/</loc>
+		<lastmod>2023-04-18T05:15:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletmangkokmurah9.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah6.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/hancuran-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/serabut-1-768x512-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletkakimurah2.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/agritech/</loc>
+		<lastmod>2023-04-18T05:14:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/beranda-app.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/wawasan-app.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/toko-app.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/konsultasi-app.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/jualpanen-app.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/registrasirumah-app.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/iot-app.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/markaswalet-app-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/manufaktur-ekspor/</loc>
+		<lastmod>2023-04-18T04:44:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/stp-1-lite.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/step2-lite.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/step-3-lite-scaled-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Step-5-lite.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/hancuran-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-18-at-11.40.15.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rumah-walet/</loc>
+		<lastmod>2023-04-17T07:51:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-40.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-38.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-36.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-34.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/gambar-32.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
@@ -162,34 +293,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/ukuran/</loc>
-		<lastmod>2023-04-12T03:54:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah6.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletkakimurah3-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah7.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwalethancuranmurah3.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Markas-Sarang-Burung-Walet-SM-S-SS-SSS-SSSS-berat-50-gram-e1545975988825.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Markas-Sarang-Burung-Walet-SM-S-SS-SSS-SSSS-berat-100-gram.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Markas-Sarang-Burung-Walet-SM-S-SS-SSS-SSSS-berat-200-gram.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/workshop/</loc>
 		<lastmod>2023-04-11T06:46:12+00:00</lastmod>
 		<image:image>
@@ -213,50 +316,6 @@
 		<lastmod>2023-04-11T06:00:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/IMG_1647.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/bentuk/</loc>
-		<lastmod>2023-04-11T05:54:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletmangkokmurah9.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/gambar-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletsegitigamurah6.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/gambar-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/hancuran-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/serabut-1-768x512-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jualsarangburungwaletkakimurah2.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/warna-sarang/</loc>
-		<lastmod>2023-04-11T05:52:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/sarang-walet-kuning-murah.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/jual-sarang-walet-merah-3-3.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/gambar-6.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
