@@ -50,6 +50,19 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/tentang/</loc>
+		<lastmod>2023-04-27T06:48:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/IMG_1647.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/history-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/daftar-produk/</loc>
 		<lastmod>2023-04-18T05:17:37+00:00</lastmod>
 		<image:image>
@@ -306,16 +319,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/WhatsApp-Image-2020-10-22-at-23.21.08-2.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/tentang/</loc>
-		<lastmod>2023-04-11T06:00:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/IMG_1647.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/ekosistem-markaswalet.jpeg</image:loc>
